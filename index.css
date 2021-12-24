@@ -140,7 +140,7 @@ figcaption{
     background-color: #3882f6;
     border-radius:10px;
     width:800px;
-    padding:35px;
+    height:150px;
 }
 .bottom-section1{
     margin:25px;
@@ -149,6 +149,7 @@ figcaption{
     align-items: center;
 }
 .bottom-items{
+    padding:16px;
 }
 .action{
     font-size:24px;
@@ -158,6 +159,9 @@ figcaption{
 .product{
     font-size:18px;
     color:#e5e7eb;
+    position: relative;
+    bottom:24px;
+    display:flex;
 }
 .signup2{
     background-color: #3882f6;
@@ -167,4 +171,8 @@ figcaption{
     font-size:16px;
     border:4px solid #e5e7eb;
     font-weight:900;
+    position: relative;
+    bottom:84px;
+    left:600px;
+    display:flex;
 }
