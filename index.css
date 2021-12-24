@@ -68,11 +68,13 @@ ul a {
 
 }
 .image-placeholder {
-    background-color: #eee;
     display: flex;
     height: 200px;
     margin: 5px;
     width: 500px;
+}
+.one{
+    border:none;
 }
 .image-placeholder > h4 {
     align-self: center;
@@ -177,7 +179,7 @@ figcaption{
     display:flex;
 }
 .footer{
-    height:72px;
+    height:112px;
     background-color: #1F2937;
     width:100%;
     display:flex;
