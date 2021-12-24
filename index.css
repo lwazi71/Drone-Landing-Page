@@ -176,3 +176,16 @@ figcaption{
     left:600px;
     display:flex;
 }
+.footer{
+    height:72px;
+    background-color: #1F2937;
+    width:100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.copyright{
+    font-size:18px;
+    color:#e5e7eb
+}
